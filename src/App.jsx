@@ -210,7 +210,7 @@ export default function CreativeRecruiterPortfolio() {
               <div className="mb-5 flex items-center justify-between">
                 <h2 className="text-lg font-medium">What I bring to a team</h2>
                 <div className="rounded-full border border-emerald-400/20 bg-emerald-400/10 px-3 py-1 text-xs text-emerald-200">
-                  Recruiter view
+                  team work
                 </div>
               </div>
               <div className="space-y-3">
